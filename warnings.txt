@@ -1,0 +1,8 @@
+CMU-ERR54;ERR_54_Noncompliant.java;14;METHOD_INVOCATION;br.close() CALL
+CMU-ERR54;ERR_54_Noncompliant.java;20;METHOD_INVOCATION;br2.close() CALL
+CMU-ERR54;ERR_54_Noncompliant.java;21;METHOD_INVOCATION;br.close() CALL
+CMU-ERR54;ERR_54_Noncompliant.java;35;METHOD_INVOCATION;br2.close() CALL
+CMU-ERR54;ERR_54_Noncompliant.java;56;METHOD_INVOCATION;br2.close() CALL
+CMU-ERR54;ERR_54_Noncompliant.java;71;METHOD_INVOCATION;br2.close() CALL
+CMU-ERR54;ERR_54_Noncompliant.java;97;METHOD_INVOCATION;br.close() CALL
+CMU-ERR54;ERR_54_CMU_Examples_Noncompliant.java;22;METHOD_INVOCATION;bw.close() CALL
